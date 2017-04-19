@@ -1,0 +1,6 @@
+E:\Training Samples\SampleApplication\SampleApplication\bin\Debug\SampleApplication.exe.config
+E:\Training Samples\SampleApplication\SampleApplication\bin\Debug\SampleApplication.exe
+E:\Training Samples\SampleApplication\SampleApplication\bin\Debug\SampleApplication.pdb
+E:\Training Samples\SampleApplication\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+E:\Training Samples\SampleApplication\SampleApplication\obj\Debug\SampleApplication.exe
+E:\Training Samples\SampleApplication\SampleApplication\obj\Debug\SampleApplication.pdb
